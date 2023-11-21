@@ -397,7 +397,7 @@ h6 {
   font-weight: 700;
 }
 #hero h3 {
-  color: #b64f0b;
+  color: #0b58b6;
   margin-bottom: 30px;
   font-size: 48px;
   font-weight: 700;
@@ -407,7 +407,7 @@ h6 {
   width: 80%;
   animation-delay: 0.4s;
   margin: 0 auto 30px auto;
-  color: #18ac85;
+  color: #ffffff;
 }
 
 #hero .carousel-inner .carousel-item {
@@ -773,7 +773,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(66, 84, 81, 0.5), rgba(43, 56, 54, 0.5)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(66, 84, 81, 0.5), rgba(43, 56, 54, 0.5)), url("../img/PcG.2.png") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
