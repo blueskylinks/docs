@@ -687,6 +687,47 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Logos Section
+--------------------------------------------------------------*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: rgb(251, 249, 249);
+}
+@keyframes slide{
+  from  {
+     transform: translateX(0);
+  }
+  to     {
+     transform: translateX(-100%);     
+  }
+}
+.brand img{
+  height: 150px;
+  width: 150px;
+}
+.logos{
+  overflow: hidden;
+  padding: 60px 0;
+  background: white;
+  white-space: nowrap;
+}
+.logos:hover .logos-slide{
+  animation-play-state: paused;
+}
+.logos-slide{
+  display: inline-block;
+  animation: 14s slide infinite linear;
+}
+.logos-slide img{
+  height: 50px;
+  margin: 0 40px;
+}
+
+/*--------------------------------------------------------------
 # Our Services
 --------------------------------------------------------------*/
 .services .icon-box {
