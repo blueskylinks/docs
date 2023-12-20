@@ -453,7 +453,7 @@ h6 {
 #hero .carousel-indicators li {
   list-style-type: none;
   cursor: pointer;
-  opacity: 1;
+  /* opacity: 1; */
 }
 
 #hero .carousel-indicators .active {
