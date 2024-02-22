@@ -4,3 +4,12 @@ Template Name: Shuffle
 Template URL: https://bootstrapmade.com/bootstrap-3-one-page-template-free-shuffle/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
+
+
+<!-- =======================================================
+  * Template Name: Shuffle
+  * Updated: Jul 27 2023 with Bootstrap v5.3.1
+  * Template URL: https://bootstrapmade.com/bootstrap-3-one-page-template-free-shuffle/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
